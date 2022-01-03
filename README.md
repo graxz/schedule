@@ -55,10 +55,4 @@ $ npm run start:prod
 ```bash
 # e2e tests
 $ npm run test:e2e
-
-
-License
-----
-
-MIT
 ```
